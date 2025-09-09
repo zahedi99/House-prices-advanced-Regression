@@ -6,7 +6,7 @@ A Kaggle-style machine learning project focused on predicting house prices using
 
 This project tackles the classic House Prices: Advanced Regression Techniques problem using real-world housing data. The goal is to predict final sale prices of homes based on various features, testing multiple model pipelines and comparing their performance.
 
-📂 Contents
+ Contents
 
 train.csv, test.csv: Original dataset
 
@@ -24,15 +24,15 @@ LICENSE: MIT License
 
  Models Tried
 
-✅ Ridge Regression (Best overall performance)
+ Ridge Regression (Best overall performance)
 
-✅ Neural Networks (Baseline & tuned)
+ Neural Networks (Baseline & tuned)
 
-❌ Unlogged predictions (worse performance)
+ Unlogged predictions (worse performance)
 
-✅ Feature scaling + OneHotEncoding for preprocessing
+ Feature scaling + OneHotEncoding for preprocessing
 
-🏆 Best Model
+ Best Model
 
 Model: ridge_log
 
